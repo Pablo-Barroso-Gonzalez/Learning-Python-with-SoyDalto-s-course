@@ -13,5 +13,5 @@ Tener en cuenta q ya tengo una base de Python, hace como un año me puse a apren
 
 Curso realizado gracias a SoyDalto:
 
-- YouTube: [SoyDalto](ENLACE_DEL_CANAL)
-- GitHub: [SoyDalto](ENLACE_DE_SU_GITHUB)
+- YouTube: [SoyDalto](https://www.youtube.com/@soydalto)
+- GitHub: [SoyDalto](https://github.com/soydalto)
