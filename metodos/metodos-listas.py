@@ -1,6 +1,3 @@
-from numpy import sort
-
-
 lista = list()
 lista2 = [42,73,True,True,False,False,15,17,84,29.29,60]
 print(lista2)
