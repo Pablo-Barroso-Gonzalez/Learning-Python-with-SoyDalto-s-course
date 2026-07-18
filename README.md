@@ -1,6 +1,9 @@
 # Learning-Python-with-SoyDalto-s-course
 En este repositorio documentare mi camino aprendiendo python con el curso de SoyDalto:
-[![Curso de PYTHON desde CERO (Completo)](https://img.youtube.com/vi/nKPbfIU442g/maxresdefault.jpg)](https://www.youtube.com/watch?v=nKPbfIU442g)
+
+<a href="https://www.youtube.com/watch?v=nKPbfIU442g">
+  <img src="https://img.youtube.com/vi/nKPbfIU442g/maxresdefault.jpg" width="300">
+</a>
 
 ## Mini diario
 Me gustaria hacer un minidiario del curso pq mas alla de puro codigo q sera muy simple sobretodo al principio quiero trasmitir mi evolcucion a traves de este minidiario.
