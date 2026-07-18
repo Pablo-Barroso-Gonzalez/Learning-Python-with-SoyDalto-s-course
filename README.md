@@ -1,6 +1,6 @@
 # Learning-Python-with-SoyDalto-s-course
 En este repositorio documentare mi camino aprendiendo python con el curso de SoyDalto:
-https://www.youtube.com/watch?v=nKPbfIU442g
+[![Curso de PYTHON desde CERO (Completo)](https://img.youtube.com/vi/nKPbfIU442g/maxresdefault.jpg)](https://www.youtube.com/watch?v=nKPbfIU442g)
 
 ## Mini diario
 Me gustaria hacer un minidiario del curso pq mas alla de puro codigo q sera muy simple sobretodo al principio quiero trasmitir mi evolcucion a traves de este minidiario.
@@ -16,7 +16,7 @@ Pero buena mi idea (lo ideal) es hacer dos horas diarias minimo (junto a las dos
 Hoy sigo desde el minuto 1:57:23 horas
 
 ## Dia 4 - Sabado 18/07/2026
-El dia de ayer (dia 3) fue bastante bien al final hice una 4 horitas al final.Solo escribi cuando empeze la session y me olvide al final.Hoy tal como dije volvi a estudiar Python como dije ayer q debo de hacerlo cada dia (y hacer el diario).
+El dia de ayer (dia 3) fue bastante bien al final hice una 4 horitas al final.Solo escribi cuando empeze la session y me olvide al final.Hoy tal como dije volvi a estudiar Python como dije ayer q debo de hacerlo cada dia (y hacer el disario).
 Voy por el apartado de metodos de listas en el momento q escribo esto (a media session).Siento que voy mas lento q la media, no me gusta ver el curso y simplemente memorizar, tengo que entender las cosas bien y porque funcianan las cosas bien.Es una arma de doble filo pq eso me ayuda a profundizar y enteder temas mejor, pero tambien hace que pierda bastante tiempo estancado en temas que relamente no hace falta aprender tan al detalle, que simplemente cuando lo necesite busco en un buscador o una IA y ya esta.Estoy intentado cambiar ese habito pero cuesta.
 
 ## Créditos
