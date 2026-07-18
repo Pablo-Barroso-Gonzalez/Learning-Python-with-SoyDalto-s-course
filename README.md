@@ -14,10 +14,14 @@ Han pasado como 5 dias desde el ultimo dirario y en verdad en medio solo hize 1 
 https://youtu.be/jLbMpo1Ks00
 Pero buena mi idea (lo ideal) es hacer dos horas diarias minimo (junto a las dos de ingles y la mecanografia) es bastante pero bueno vamos a darle lo q realmente vale la pena no es facil osino todo el mundo lo haria.
 Hoy sigo desde el minuto 1:57:23 horas
+
+## Dia 4 - Sabado 18/07/2026
+El dia de ayer (dia 3) fue bastante bien al final hice una 4 horitas al final.Solo escribi cuando empeze la session y me olvide al final.Hoy tal como dije volvi a estudiar Python como dije ayer q debo de hacerlo cada dia (y hacer el diario).
+Voy por el apartado de metodos de listas en el momento q escribo esto (a media session).Siento que voy mas lento q la media, no me gusta ver el curso y simplemente memorizar, tengo que entender las cosas bien y porque funcianan las cosas bien.Es una arma de doble filo pq eso me ayuda a profundizar y enteder temas mejor, pero tambien hace que pierda bastante tiempo estancado en temas que relamente no hace falta aprender tan al detalle, que simplemente cuando lo necesite busco en un buscador o una IA y ya esta.Estoy intentado cambiar ese habito pero cuesta.
+
 ## Créditos
 
 Curso realizado gracias a SoyDalto:
 
 - YouTube: [SoyDalto](https://www.youtube.com/@soydalto)
 - GitHub: [SoyDalto](https://github.com/soydalto)
-
