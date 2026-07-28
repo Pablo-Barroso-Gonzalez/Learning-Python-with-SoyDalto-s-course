@@ -1,4 +1,4 @@
-# Learning Python with SoyDalto
+# Learning Python with SoyDalto's Course
 
 En este repositorio documentare mi camino aprendiendo python con el curso de SoyDalto:
 
