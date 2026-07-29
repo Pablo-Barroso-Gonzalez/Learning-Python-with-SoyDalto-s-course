@@ -9,6 +9,13 @@ En este repositorio documentare mi camino aprendiendo python con el curso de Soy
     width="300">
 </a>
 
+## Contenido
+
+
+- **Archivos `.py`** → Ejercicios y pruebas realizadas durante el curso. Incluyen el código escrito para replicar lo explicado por SoyDalto y experimentar con los conceptos aprendidos.
+
+- **`course_notes.md`** → Apuntes personales creados durante el curso para reforzar y organizar los conocimientos aprendidos. Su objetivo principal es servir como referencia propia durante mi proceso de aprendizaje.
+
 ## Créditos
 
 Curso realizado gracias a SoyDalto:
