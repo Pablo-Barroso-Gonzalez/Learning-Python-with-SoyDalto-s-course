@@ -45,3 +45,5 @@ for indice, valor in enumerate(numeros):
         break
 else:
     print("El bucle for termino sin ningun break")
+
+#Todo lo anterior funciona igual con listas y tuplas
