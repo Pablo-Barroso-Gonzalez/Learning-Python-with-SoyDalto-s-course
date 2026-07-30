@@ -32,9 +32,8 @@ def generar_contraseña(num):
         f"{chars[char4]}"
         )
     
-    return contraseña
+    return contraseña,num
 
-num = 832
 
-password = generar_contraseña(num)
+password, num = generar_contraseña(654)
 print(f"La contraseña genereada a partir de {num} es {password}.")
