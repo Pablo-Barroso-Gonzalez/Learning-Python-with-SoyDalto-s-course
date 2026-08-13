@@ -1,5 +1,7 @@
 #creando funcion q muestre la serie de fibonacci desde 0 al numero dado
 
+# Esta es mi version del scipt antes de ver la solucion de dalto con mis concimientos y con el apoyo didactico de ia con intenciones de aprendizaje.
+
 def crear_fibonacci(limite):
     
     sucesión_Fibonacci = [0]
