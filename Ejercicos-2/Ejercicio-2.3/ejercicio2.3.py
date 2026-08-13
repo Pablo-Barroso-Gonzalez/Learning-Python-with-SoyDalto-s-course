@@ -1,8 +1,5 @@
 #creando funcion q muestre la serie de fibonacci desde 0 al numero dado
 
-
-
-
 def crear_fibonacci(limite):
     
     sucesión_Fibonacci = [0]
@@ -17,9 +14,8 @@ def crear_fibonacci(limite):
         sucesión_Fibonacci.append(b)
     return sucesión_Fibonacci
 
-limite = int(input(f"Introduzca el numero limite para la serie de fibonacc:\n"))
+limite = int(input(f"Introduzca el numero limite para la serie de fibonacci:\n"))
 
 resultado = crear_fibonacci(limite)
 
 print(f"La sucesión de Fibonacci con limite de {limite} da como resultado:\n{resultado}")
-
