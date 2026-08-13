@@ -19,6 +19,8 @@ Para ello, el programa debe:
 8. Mostrar el resultado final indicando quién desempeñará cada función.
 """
 
+#Este ejercico se ha hecho primero aqui solo con el anunciado y un poco de ayuda de la IA para resolverlo antes de que dalto diera la soulcion.
+
 alumnos = {}
 
 print("Hoy no vino el profesor y necesitamos 2 alumnos uno q haga de profesor y otro de asitente.")
