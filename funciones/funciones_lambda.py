@@ -22,7 +22,7 @@
 
 numeros = [54,345,3,23,43,23,56,32,13,73,48,27]
 numeros_pares = filter(lambda num: num % 2 == 0, numeros)
-print((numeros_pares))
+print(list(numeros_pares))
 
 es_par = lambda num, num2 : (num % 2 == 0, num2 % 2 == 0)
 print(es_par(5,6))
