@@ -1,4 +1,12 @@
-import modulo_saludar as mo_saludar
+from modulo_saludar import saludar, saludar_raro,cebolla
 
-resul = mo_saludar.saludar("Pablo")
-print(resul)
+resultado_saludo = saludar("Pablo")
+resultado_saludo_raro = saludar_raro("Emma")
+
+print("Saludo normal:")
+print(resultado_saludo)
+
+print("Saludo raro:")
+print(resultado_saludo_raro)
+
+print(cebolla)
