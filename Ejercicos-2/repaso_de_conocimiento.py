@@ -7,4 +7,8 @@ def es_primo(num):
 
 
 numero = int(input("introduzca un numero:\n"))
-print(f"{numero} es un numero primo?\n{es_primo(numero)}")
+resultado = es_primo(numero)
+if resultado == True:
+    print(f"El numero {numero} es primo.")
+else:
+     print(f"El numero {numero} no es primo.")
