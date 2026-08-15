@@ -1,4 +1,4 @@
-from modulo_saludar import saludar, saludar_raro,cebolla
+from funciones_buenas.modulo_saludar import saludar, saludar_raro,cebolla
 
 resultado_saludo = saludar("Pablo")
 resultado_saludo_raro = saludar_raro("Emma")
