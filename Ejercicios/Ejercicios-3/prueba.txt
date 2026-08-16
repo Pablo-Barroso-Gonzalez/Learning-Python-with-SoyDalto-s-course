@@ -1,2 +1,2 @@
 Escribiendo en el archivo de prueba.
-Esta es la segunda linea.
+Escribiendo la segunda linea.
