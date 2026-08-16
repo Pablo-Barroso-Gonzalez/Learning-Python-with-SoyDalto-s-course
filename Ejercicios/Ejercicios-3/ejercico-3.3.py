@@ -10,7 +10,7 @@ with open("Ejercicios/Ejercicios-3/prueba.txt","r",encoding="UTF-8") as archivo:
     contendio = archivo.read()
 print(contendio)
     
-    
+#se pude usar seek(0) pero como se cierra y vuelve abrir no es necesario
 with open("Ejercicios/Ejercicios-3/prueba.txt","r",encoding="UTF-8") as archivo:
-    contendio2 = archivo.read()
-print(contendio2)
+    contenido2 = archivo.read()
+print(contenido2)
