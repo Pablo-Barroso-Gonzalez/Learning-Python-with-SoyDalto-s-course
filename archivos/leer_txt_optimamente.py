@@ -1,5 +1,4 @@
 with open("archivos/documento.txt") as archivo:
-    contenido =archivo.read()
-    print(contenido)
+    contenido = archivo.read()
 print(contenido)
     
