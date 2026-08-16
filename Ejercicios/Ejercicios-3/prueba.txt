@@ -1,2 +1,2 @@
-Escribiendo en el archivo de prenea.
+Escribiendo en el archivo de prueba.
 Escribiendo la segunda linea.
