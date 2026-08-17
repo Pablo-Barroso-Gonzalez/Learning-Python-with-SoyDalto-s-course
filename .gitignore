@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 .venv/
+archivo_para_pruebas.py
