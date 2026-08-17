@@ -31,4 +31,4 @@ print(f"Las frases que salen en el texto con {key_word} son:")
 
 
 for frase in resultado:
-    print(f"- {frase}")
+    print(f"- {frase}") 
