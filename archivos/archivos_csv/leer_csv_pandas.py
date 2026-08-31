@@ -1,6 +1,3 @@
-from doctest import DocFileSuite
-from xml.etree import ElementTree
-
 import pandas as pd
 
 df1 = pd.read_csv("archivos/archivos_csv/datos.csv")
